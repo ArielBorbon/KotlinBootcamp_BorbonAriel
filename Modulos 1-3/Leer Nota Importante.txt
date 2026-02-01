@@ -1,0 +1,3 @@
+Existen archivos con main el cual lanzara error, por ejemplo el archivo Modulo 3.5.kt 
+Lanzara una Exception si no se le envia nada en el "Program arguments", por lo que para estos 
+Tasks especiales, favor de colocar un parametro acorde a la Tarea. Gracias
